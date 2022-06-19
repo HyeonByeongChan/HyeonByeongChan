@@ -1,16 +1,22 @@
-### Hi there 👋
+___
+# Welcome HyeonByeongChan github
+Hi, My name's **ByeonhChan Hyeon**!
 
-<!--
-**HyeonByeongChan/HyeonByeongChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm 23 years old.
 
-Here are some ideas to get you started:
+from, South Korea / live in Namyangju City
+___
+## Hobby
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Game
+- Music
+- weight
+___
+<!--Table-->
+|2019 Tech|2022 Tech|
+|:--:|:--:|
+|Java programming1|C  programming|
+|Java programming2|Logical Design and Experiment|
+|Linear algebra|Introduction to Software|
+| |Data structure|
+| |Python Science Programming Basics|
