@@ -1,5 +1,5 @@
 ___
-# Welcome HyeonByeongChan github
+# 🙌 Welcome HyeonByeongChan github
 Hi, My name's **ByeonhChan Hyeon**!
 
 i'm 23 years old.
@@ -10,9 +10,9 @@ from, South Korea / live in Namyangju City
 ___
 ## Hobby
 
-- Game
-- Music
-- weight
+- 🎮 Game
+- 🎵 Music
+- 💪 weight
 ___
 ### Tools
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
