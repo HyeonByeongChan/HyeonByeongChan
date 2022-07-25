@@ -40,6 +40,5 @@ ___
 ___
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeonByeongChan&show_icons=true&theme=radical)
 ___
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hbc46850)](https://solved.ac/hbc46850)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hbc46850)](https://solved.ac/hbc46850/)
 ___
